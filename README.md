@@ -1,13 +1,13 @@
 ## Smart Plant Security Bot
 
-An Arduino-based autonomous robot that patrols a plant area by following a black line, avoids obstacles on its path, and detects intruders with a PIR sensor. When an intruder is detected, it sends an SMS alert through a GSM module. Built for CSE 438 (Robotics) at the University of Asia Pacific, Dhaka.
+An Arduino-based autonomous robot that patrols a plant area by following a black line, avoids obstacles on its path, and detects intruders with a PIR sensor. When an intruder is detected, it sends an SMS alert through a GSM module.
 
 
 ## Project Demo Video
 [Watch Demo Video](https://drive.google.com/file/d/1tuD8K_utSBLFmq2zpLKNq5p76Jg-mif8/view?usp=drive_link)
 
 ## How It Works
-
+![Smart Plant Security Bot Animation](docs/robot-demo.svg)
 
 
 ## Purpose
